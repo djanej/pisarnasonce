@@ -84,6 +84,7 @@ Disallow: /*?*test=
 # Sitemaps
 Sitemap: https://www.sonce.org/sitemap.xml
 Sitemap: https://www.sonce.org/sitemap-sl.xml
+Sitemap: https://pisarnasonce.si/sitemap.xml
 
 # Host preference
 Host: https://www.sonce.org
